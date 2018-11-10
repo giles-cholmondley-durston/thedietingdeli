@@ -1,0 +1,11 @@
+{
+  "name": "thedietingdeli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jaybowles/thedietingdeli.git",
+  "author": "EmilePW <emilepw@hotmail.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.4"
+  }
+}
